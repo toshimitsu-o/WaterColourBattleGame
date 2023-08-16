@@ -1,0 +1,30 @@
+Water colour battles
+
+sketch.js
+
+ver. 1.1
+Backgound added to splash scene. Count down reset added.
+
+ver. 1.0
+Video added. Update Score added.
+
+ver. 0.8
+Level up controls. Design adjustments.
+
+ver. 0.7
+Sound for level up and gamaover added. Clouds added.
+Shooting incoming missiles changed.
+Credits added.
+
+Ver. 0.6
+Missile supply limit, font, missiles animation, city & platform images added.
+
+Ver. 0.5
+Colourful ink splash animations and images added.
+
+Ver. 0.4
+Sound for shooting added.
+
+Ver. 0.3
+ALl functional requirements are implemented.
+Sprite images, Video & Sound, and design elememts need to be added.

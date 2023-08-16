@@ -1,0 +1,11 @@
+{
+    "players":[
+        {"playerName":"John", "topScore": 34, "currentScore": 21}, 
+        {"playerName":"Anna", "topScore": 43, "currentScore": 31},
+        {"playerName":"Peter", "topScore": 33, "currentScore": 32},
+        {"playerName":"Peppa", "topScore": 32, "currentScore": 33},
+        {"playerName":"Mitsu", "topScore": 64, "currentScore": 21},
+        {"playerName":"Asuka", "topScore": 53, "currentScore": 32},
+        {"playerName":"Ken", "topScore": 122, "currentScore": 21}
+    ]
+}
